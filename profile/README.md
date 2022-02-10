@@ -1,3 +1,3 @@
-<img src="../img/_tretton37_logo_green.png" alt="drawing" style="margin-left:auto;margin-right:auto;display:block;width:70%" />
+<img src="./img/_tretton37_logo_green.png" alt="drawing" style="margin-left:auto;margin-right:auto;display:block;width:70%" />
 
-<img src="../img/_tretton37_slogan_blue.png" alt="drawing" style="margin-left:auto;margin-right:auto;display:block;width:70%;" />
+<img src="./img/_tretton37_slogan_blue.png" alt="drawing" style="margin-left:auto;margin-right:auto;display:block;width:70%;" />
